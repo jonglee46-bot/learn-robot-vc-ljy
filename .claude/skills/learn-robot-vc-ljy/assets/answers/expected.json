@@ -1,0 +1,61 @@
+{
+  "values": {
+    "facts_total": {
+      "value": 44,
+      "block": 0,
+      "decimals": 0
+    },
+    "facts_cross": {
+      "value": 29,
+      "block": 0,
+      "decimals": 0
+    },
+    "facts_diff": {
+      "value": 7,
+      "block": 0,
+      "decimals": 0
+    },
+    "facts_hold": {
+      "value": 8,
+      "block": 0,
+      "decimals": 0
+    },
+    "sources_total": {
+      "value": 34,
+      "block": 0,
+      "decimals": 0
+    },
+    "humanoid_ifr_sales": {
+      "value": "Almost 6,900",
+      "block": 1
+    },
+    "humanoid_ifr_full": {
+      "value": "Nearly 7,000",
+      "block": 1
+    },
+    "humanoid_counterpoint": {
+      "value": "16,000",
+      "block": 1
+    },
+    "humanoid_bofa": {
+      "value": "20,000",
+      "block": 1
+    },
+    "bom_excl_china": {
+      "value": "131,000",
+      "block": 2
+    },
+    "bom_incl_china": {
+      "value": "46,000",
+      "block": 2
+    },
+    "bom_china_2025": {
+      "value": "35,000",
+      "block": 2
+    },
+    "bom_china_2030": {
+      "value": "below 17,000",
+      "block": 2
+    }
+  }
+}

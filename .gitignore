@@ -1,0 +1,12 @@
+*.pptx
+*.docx
+docs/*.png
+docs/*.jpg
+docs/preview/
+**/preview*.png
+env_check.txt
+robot-vc-lab/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.zip

@@ -1,0 +1,9 @@
+{
+  "slug": "learn-robot-vc-ljy",
+  "answer": {
+    "skill": "learn-robot-vc-ljy",
+    "workdir": "assets/lab",
+    "cmd": "python3 -I \"{answers}/solve_lab.py\"",
+    "expected": "assets/answers/expected.json"
+  }
+}
