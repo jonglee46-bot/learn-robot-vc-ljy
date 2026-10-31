@@ -8,3 +8,6 @@
 - [x] 승인 ② (2026-10-31)
 - [x] 5 학습자 자료 (2026-10-31) — GUIDE.md, 매뉴얼 덱은 교재·덱 PDF가 있어 생략
 - [ ] 6 배포 — 공개 점검, 승인 ③ 대기
+- [x] 승인 ③ (2026-10-31) — public
+- [x] 6 배포 (2026-10-31) — https://github.com/jonglee46-bot/learn-robot-vc-ljy · https://jonglee46-bot.github.io/learn-robot-vc-ljy/ · 첫 커밋 f8116d0
+- [ ] 7 배우기·공유 — 사용자가 새 세션에서 /learn-robot-vc-ljy 수강
